@@ -3,7 +3,7 @@
 {
     "name": "Timeware specific reports",
     "summary": "",
-    "author": "Timeware Limited",
+    "author": "Timeware Limited, Quartile Limited",
     "website": "https://www.quartile.co",
     "category": "Reports",
     "version": "12.0.1.1.0",
